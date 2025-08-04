@@ -6,6 +6,8 @@ Welcome to **RedFox Studios**! 👋
 
 We’re a team of passionate developers and creatives focused on bringing innovative and exciting ideas to life, from **game development** to **web solutions**. Our mission is to create projects that are not only fun and functional but also have a lasting impact.
 
+GitHub Organization Membercount `>25`
+
 Discord Servers:
 - RedFox Studios: https://discord.gg/JWVMk9pvPS
 - RedFox Studios Employees Only: https://discord.gg/HaAaTNHvpk
