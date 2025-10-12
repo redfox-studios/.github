@@ -75,7 +75,6 @@ If you're interested in joining RedFox Studios:
 Thanks for visiting, and make sure to check out our repositories! 😀
 
 ## You can help us by Donating
-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254)
-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
 - **BTC:** `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`
 - **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
