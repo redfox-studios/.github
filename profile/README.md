@@ -12,16 +12,16 @@ Discord Servers:
 - RedFox Studios: https://discord.gg/JWVMk9pvPS
 - RedFox Studios Employees Only: https://discord.gg/HaAaTNHvpk
 
-## 🌟 About Us
+## About Us
 
 RedFox Studios was founded with a love for technology and creativity. We aim to deliver quality and make a mark in the **indie game development** and **web development** spaces. We believe in open-source values and often share our work here for the community.
 
-## 🚀 What We Do
+## What We Do
 
 - **Game Development**: From concept to completion, we develop unique, immersive games with engaging mechanics and captivating stories.
 - **Web Development**: We build intuitive and high-quality web applications that enhance user experience and drive innovation.
 
-## 💻 Tech Stack:
+## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,7 +66,7 @@ If you're interested in joining RedFox Studios:
 2. Fill out the membership application form
 3. Our team will review your application and contact you
 
-## 📫 Contact
+## Contact us
 
 - **Website**: [redfox-studios.org](https://www.redfox-studios.org)
 - **GitHub**: [RedFox Studios](https://github.com/RedFox-Studios)
@@ -74,5 +74,8 @@ If you're interested in joining RedFox Studios:
 
 Thanks for visiting, and make sure to check out our repositories! 😀
 
-## 💰 You can help us by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
+## You can help us by Donating
+- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pilot2254)
+- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pilot2254) 
+- **BTC:** `bc1qr8x3k39mn7sz2l9kyk8j8293xf5spm2wsxymh9`
+- **ETH:** `0x4281F208799E24531CBE21D4d263C08E7CB68d86`
