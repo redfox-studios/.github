@@ -21,6 +21,7 @@ RedFox Studios was founded with a love for technology and creativity. We aim to 
 - **Game Development**: From concept to completion, we develop unique, immersive games with engaging mechanics and captivating stories.
 - **Web Development**: We build intuitive and high-quality web applications that enhance user experience and drive innovation.
 
+<!--
 ## Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,6 +55,7 @@ RedFox Studios was founded with a love for technology and creativity. We aim to 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+-->
 
 ## Joining RedFox Studios organization on GitHub
 
